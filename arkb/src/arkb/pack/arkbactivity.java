@@ -14,10 +14,12 @@ public class arkbactivity extends Activity {
     }
 
     public void function1(){
-        public char a = 0;
+        char a;
+        a = 0;
     }
 
     public void function2(){
-        public int i = 20;
+        int i;
+        i = 20;
     }
 }
